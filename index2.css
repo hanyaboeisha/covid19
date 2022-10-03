@@ -1,0 +1,44 @@
+header {
+    color: blue;
+    width: 50%;
+    margin: auto;
+}
+header span{
+    color: #04045a;
+    margin: 5px;
+}
+header h3{
+    color: black;
+    font-size: 20px;
+}
+header h2{
+    margin-left: 5%;
+}
+   
+    
+    
+    
+
+.text a{
+    margin-left: 40%;
+text-decoration: none;
+background: #0a0aa1f2;
+color:#fff;
+padding: 8px 12px;
+border-radius: 20px;
+
+
+}
+a{
+    margin-left: 90%;
+    text-decoration: none;
+    background: #0d0d0df8;
+    color:#fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+
+    
+    
+    } 
+
+

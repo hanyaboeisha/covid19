@@ -1,0 +1,29 @@
+header{
+   margin-left: 35%
+   
+   
+
+}
+header h2{
+    color: blue;
+    margin-left: 5%;
+    
+}
+
+.contaier img{
+     width: 110px;
+     height: 110px;
+     margin-left: 2%;
+}
+a{
+margin-left: 70%;
+    text-decoration: none;
+    background: #0d0d0df8;
+    color:#fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+    
+    
+    
+    } 
+    

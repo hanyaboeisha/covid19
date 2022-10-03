@@ -1,0 +1,39 @@
+.img{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    color: blue;
+    
+}
+header{
+    position: absolute;
+    margin-left: 60%;
+    width: 20%;
+}
+body{
+    background: rgb(6, 6, 124);
+    color: aliceblue;
+}
+header p{
+    font-size: 25px;
+
+}
+div{
+    margin: 50px;
+    
+    
+}
+div h3{
+    width: 20%;
+}
+a{
+    margin-left: 50%;
+    text-decoration: none;
+    background: #0d0d0df8;
+    color:#fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+    
+    
+    
+}

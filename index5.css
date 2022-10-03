@@ -1,0 +1,28 @@
+div{
+    margin: 10px;
+}
+div img{
+    margin-left: 60%;
+    align-items: center;
+    width: 500px;
+    height: 450px;
+    margin-block-end: -25%;
+}
+.container{
+    margin-bottom: 40%;
+}
+
+    a{
+        margin-left: 40%;
+            text-decoration: none;
+            background: #0d0d0df8;
+            color:#fff;
+            padding: 8px 12px;
+            border-radius: 20px;
+        
+            
+            
+            } 
+            
+        
+    

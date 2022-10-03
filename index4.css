@@ -1,0 +1,57 @@
+header{
+    width: 40%;
+    margin: auto;
+}
+header h2{
+    color: blue;
+    width: 80%;
+    margin: auto;
+
+     
+
+}
+header h1{
+    
+    color: rgb(3, 3, 76);
+    font-size: 40px;
+    width: 90%;
+    margin-left: 8%;
+}
+header p span{
+    color: black;
+    font-size: 22px;
+}
+ .col img{
+    width: 100px;
+}
+.text a {
+text-decoration: none;
+background: #0a0aa1f2;
+color:#fff;
+padding: 8px 12px;
+border-radius: 20px;
+margin-left: 40%;
+} 
+.text-muted a{
+    margin-left: 70%;
+    text-decoration: none;
+    background: #0a0aa1f2;
+    color:#fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin-block-start: -10%;
+    } 
+    
+
+    a{
+        margin-left: 90%;
+            text-decoration: none;
+            background: #0d0d0df8;
+            color:#fff;
+            padding: 8px 12px;
+            border-radius: 20px;
+        
+            
+            
+            } 
+            

@@ -1,0 +1,68 @@
+
+header h2{
+    color: blue;
+    width: 50%;
+    margin: auto;
+
+}
+header h1{
+    color: rgb(3, 3, 76);
+    font-size: 40px;
+    width: 90%;
+    margin-left: 25%;
+}
+header{
+    overflow: hidden;
+}
+header h3{
+    width: 85%;
+    margin: auto;
+}
+img{
+    margin: 30px 150px;
+}
+span{
+    color: blue;
+    font-size: 20px;
+}
+h3{
+    width: 20%;
+    
+}
+h4{
+    width: 20%;
+    margin: auto;
+    
+}
+h5{
+    width: 20%; 
+    margin-left: 70%;
+}
+p{
+    width: 40%;
+    margin-left: 15%;
+}
+.text a{
+    margin-left: 60%;
+text-decoration: none;
+background: #0a0aa1f2;
+color:#fff;
+padding: 8px 12px;
+border-radius: 20px;
+}
+div img{
+    width: 150px;
+    height: 140px;
+}
+
+a{
+        margin-left: 90%;
+        text-decoration: none;
+        background: #0d0d0df8;
+        color:#fff;
+        padding: 8px 12px;
+        border-radius: 20px;
+    
+        
+        
+        } 

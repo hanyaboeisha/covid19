@@ -1,0 +1,20 @@
+header{
+    margin-left: 40%;
+}
+header h2{
+    color: blue;
+    font-size: 20px;
+    margin-left:5%;
+}
+header h1{
+    font-size: 40px;
+    color: rgb(13, 3, 90);
+}
+a{
+    margin-left: 40%;
+    text-decoration: none;
+    background: #0d0d0df8;
+    color:#fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+}

@@ -1,0 +1,58 @@
+header{
+    margin-left: 30%;
+    width: 40%;
+}
+header h2{
+    color: blue;
+    margin-left: 25%;
+}
+header h1{
+    margin-left: 20%;
+}
+.box{
+    display: flex;
+    margin-left: 75%;
+    
+}
+h2{
+   color: blue;
+}
+.contenr img{
+    height: 500px;
+    width: 450px;
+    margin-left: 30%;
+
+}
+.contenr img{
+    margin-block-start: -49%;
+    
+
+}
+.contenr{
+    border-radius: 100%;
+}
+.icons {
+margin-block-start: -45%;
+
+    
+    
+
+}
+
+
+a{
+    
+    margin-left: 40%;
+    text-decoration: none;
+    background: #0d0d0df8;
+    color:#fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+    
+    
+    
+}
+a{
+    margin-block-end: 45%;
+}
+

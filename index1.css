@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header ol {
+    direction: rtl;
+    margin: 20px  10px ;
+    
+    color: rgb(21, 104, 221);
+}
+header span{
+    
+    color: black;
+    font-size: 25px;
+}
+header{
+    margin:50px;
+}
+a{
+    color: blue;
+    margin: 20px 20px;
+
+}
+h1{
+    color: rgb(3, 14, 66);
+}
+h3{
+    
+    width: 30%;
+    margin: 10px 15px;
+    font-size: 10px;
+}
+h4{
+    width: 30%;
+    margin: 10px 15px;
+    font-size: 10px;
+}
+div a{
+    margin-left: 70%;
+}
+
+.contaier{
+    margin-top: -40%;
+}
+a{
+    margin-left: 90%;
+    text-decoration: none;
+    background: #0d0d0df8;
+    color:#fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+
+    
+    
+    } 
+
